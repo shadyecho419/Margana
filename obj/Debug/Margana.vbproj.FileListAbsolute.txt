@@ -1,0 +1,125 @@
+D:\My Files\Work\Projects\Visual Basic 2008\Margana\Margana\bin\Debug\Margana.exe
+D:\My Files\Work\Projects\Visual Basic 2008\Margana\Margana\bin\Debug\Margana.pdb
+D:\My Files\Work\Projects\Visual Basic 2008\Margana\Margana\bin\Debug\Margana.xml
+D:\My Files\Work\Projects\Visual Basic 2008\Margana\Margana\obj\Debug\ResolveAssemblyReference.cache
+D:\My Files\Work\Projects\Visual Basic 2008\Margana\Margana\obj\Debug\Margana.Resources.resources
+D:\My Files\Work\Projects\Visual Basic 2008\Margana\Margana\obj\Debug\Margana.vbproj.GenerateResource.Cache
+D:\My Files\Work\Projects\Visual Basic 2008\Margana\Margana\obj\Debug\Margana.exe
+D:\My Files\Work\Projects\Visual Basic 2008\Margana\Margana\obj\Debug\Margana.xml
+D:\My Files\Work\Projects\Visual Basic 2008\Margana\Margana\obj\Debug\Margana.pdb
+D:\My Files\Work\Projects\Visual Basic 2008\Margana\Margana\bin\Debug\Margana.exe.manifest
+D:\My Files\Work\Projects\Visual Basic 2008\Margana\Margana\bin\Debug\Margana.application
+D:\My Files\Work\Projects\Visual Basic 2008\Margana\Margana\obj\Debug\Margana.frmMarganaMain.resources
+D:\My Files\Work\Projects\Visual Basic 2008\Margana\Margana\obj\Debug\Margana.exe.manifest
+D:\My Files\Work\Projects\Visual Basic 2008\Margana\Margana\obj\Debug\Margana.application
+E:\My Files\Work\Projects\Visual Basic 2008\Margana\Margana\obj\Debug\Margana.exe
+E:\My Files\Work\Projects\Visual Basic 2008\Margana\Margana\obj\Debug\Margana.xml
+E:\My Files\Work\Projects\Visual Basic 2008\Margana\Margana\obj\Debug\Margana.pdb
+E:\My Files\Work\Projects\Visual Basic 2008\Margana\Margana\bin\Debug\Margana.exe.manifest
+E:\My Files\Work\Projects\Visual Basic 2008\Margana\Margana\bin\Debug\Margana.application
+E:\My Files\Work\Projects\Visual Basic 2008\Margana\Margana\bin\Debug\Margana.exe
+E:\My Files\Work\Projects\Visual Basic 2008\Margana\Margana\bin\Debug\Margana.pdb
+E:\My Files\Work\Projects\Visual Basic 2008\Margana\Margana\bin\Debug\Margana.xml
+E:\My Files\Work\Projects\Visual Basic 2008\Margana\Margana\obj\Debug\ResolveAssemblyReference.cache
+E:\My Files\Work\Projects\Visual Basic 2008\Margana\Margana\obj\Debug\Margana.frmMarganaMain.resources
+E:\My Files\Work\Projects\Visual Basic 2008\Margana\Margana\obj\Debug\Margana.Resources.resources
+E:\My Files\Work\Projects\Visual Basic 2008\Margana\Margana\obj\Debug\Margana.vbproj.GenerateResource.Cache
+E:\My Files\Work\Projects\Visual Basic 2008\Margana\Margana\obj\Debug\Margana.exe.manifest
+E:\My Files\Work\Projects\Visual Basic 2008\Margana\Margana\obj\Debug\Margana.application
+G:\Projects\Projects\Visual Basic\Margana\Margana\obj\Debug\Margana.exe
+G:\Projects\Projects\Visual Basic\Margana\Margana\obj\Debug\Margana.xml
+G:\Projects\Projects\Visual Basic\Margana\Margana\obj\Debug\Margana.pdb
+G:\Projects\Projects\Visual Basic\Margana\Margana\bin\Debug\Margana.exe.manifest
+G:\Projects\Projects\Visual Basic\Margana\Margana\bin\Debug\Margana.application
+G:\Projects\Projects\Visual Basic\Margana\Margana\bin\Debug\Margana.exe
+G:\Projects\Projects\Visual Basic\Margana\Margana\bin\Debug\Margana.pdb
+G:\Projects\Projects\Visual Basic\Margana\Margana\bin\Debug\Margana.xml
+G:\Projects\Projects\Visual Basic\Margana\Margana\obj\Debug\ResolveAssemblyReference.cache
+G:\Projects\Projects\Visual Basic\Margana\Margana\obj\Debug\Margana.frmMarganaMain.resources
+G:\Projects\Projects\Visual Basic\Margana\Margana\obj\Debug\Margana.Resources.resources
+G:\Projects\Projects\Visual Basic\Margana\Margana\obj\Debug\Margana.vbproj.GenerateResource.Cache
+G:\Projects\Projects\Visual Basic\Margana\Margana\obj\Debug\Margana.exe.manifest
+G:\Projects\Projects\Visual Basic\Margana\Margana\obj\Debug\Margana.application
+H:\Projects\Visual Basic\Margana\Margana\bin\Debug\Margana.exe.manifest
+H:\Projects\Visual Basic\Margana\Margana\bin\Debug\Margana.application
+H:\Projects\Visual Basic\Margana\Margana\bin\Debug\Margana.exe
+H:\Projects\Visual Basic\Margana\Margana\bin\Debug\Margana.pdb
+H:\Projects\Visual Basic\Margana\Margana\bin\Debug\Margana.xml
+H:\Projects\Visual Basic\Margana\Margana\obj\Debug\ResolveAssemblyReference.cache
+H:\Projects\Visual Basic\Margana\Margana\obj\Debug\Margana.frmMarganaMain.resources
+H:\Projects\Visual Basic\Margana\Margana\obj\Debug\Margana.Resources.resources
+H:\Projects\Visual Basic\Margana\Margana\obj\Debug\Margana.vbproj.GenerateResource.Cache
+H:\Projects\Visual Basic\Margana\Margana\obj\Debug\Margana.exe.manifest
+H:\Projects\Visual Basic\Margana\Margana\obj\Debug\Margana.application
+H:\Projects\Visual Basic\Margana\Margana\obj\Debug\Margana.exe
+H:\Projects\Visual Basic\Margana\Margana\obj\Debug\Margana.xml
+H:\Projects\Visual Basic\Margana\Margana\obj\Debug\Margana.pdb
+G:\Projects\Visual Basic\Margana\Margana\bin\Debug\Margana.exe.manifest
+G:\Projects\Visual Basic\Margana\Margana\bin\Debug\Margana.application
+G:\Projects\Visual Basic\Margana\Margana\bin\Debug\Margana.exe
+G:\Projects\Visual Basic\Margana\Margana\bin\Debug\Margana.pdb
+G:\Projects\Visual Basic\Margana\Margana\bin\Debug\Margana.xml
+G:\Projects\Visual Basic\Margana\Margana\obj\Debug\ResolveAssemblyReference.cache
+G:\Projects\Visual Basic\Margana\Margana\obj\Debug\Margana.frmMarganaMain.resources
+G:\Projects\Visual Basic\Margana\Margana\obj\Debug\Margana.Resources.resources
+G:\Projects\Visual Basic\Margana\Margana\obj\Debug\Margana.vbproj.GenerateResource.Cache
+G:\Projects\Visual Basic\Margana\Margana\obj\Debug\Margana.exe.manifest
+G:\Projects\Visual Basic\Margana\Margana\obj\Debug\Margana.application
+G:\Projects\Visual Basic\Margana\Margana\obj\Debug\Margana.exe
+G:\Projects\Visual Basic\Margana\Margana\obj\Debug\Margana.xml
+G:\Projects\Visual Basic\Margana\Margana\obj\Debug\Margana.pdb
+G:\Projects\Visual Basic\Margana\Margana\obj\Debug\Margana.abtGreenBay.resources
+G:\Projects\Visual Basic\Margana\Margana\obj\Debug\Margana.SplashScreen1.resources
+C:\Projects\Visual Basic\Margana\Margana\bin\Debug\Margana.exe.manifest
+C:\Projects\Visual Basic\Margana\Margana\bin\Debug\Margana.application
+C:\Projects\Visual Basic\Margana\Margana\bin\Debug\Margana.exe
+C:\Projects\Visual Basic\Margana\Margana\bin\Debug\Margana.pdb
+C:\Projects\Visual Basic\Margana\Margana\bin\Debug\Margana.xml
+C:\Projects\Visual Basic\Margana\Margana\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Visual Basic\Margana\Margana\obj\Debug\Margana.abtGreenBay.resources
+C:\Projects\Visual Basic\Margana\Margana\obj\Debug\Margana.frmMarganaMain.resources
+C:\Projects\Visual Basic\Margana\Margana\obj\Debug\Margana.Resources.resources
+C:\Projects\Visual Basic\Margana\Margana\obj\Debug\Margana.SplashScreen1.resources
+C:\Projects\Visual Basic\Margana\Margana\obj\Debug\Margana.vbproj.GenerateResource.Cache
+C:\Projects\Visual Basic\Margana\Margana\obj\Debug\Margana.exe.manifest
+C:\Projects\Visual Basic\Margana\Margana\obj\Debug\Margana.application
+C:\Projects\Visual Basic\Margana\Margana\obj\Debug\Margana.exe
+C:\Projects\Visual Basic\Margana\Margana\obj\Debug\Margana.xml
+C:\Projects\Visual Basic\Margana\Margana\obj\Debug\Margana.pdb
+E:\My Files\Work\Projects\Visual Basic\Margana\Margana\obj\Debug\Margana.exe
+E:\My Files\Work\Projects\Visual Basic\Margana\Margana\obj\Debug\Margana.xml
+E:\My Files\Work\Projects\Visual Basic\Margana\Margana\obj\Debug\Margana.pdb
+D:\old stuff\Work\Projects\Visual Basic\Margana\Margana\obj\Debug\Margana.exe
+D:\old stuff\Work\Projects\Visual Basic\Margana\Margana\obj\Debug\Margana.xml
+D:\old stuff\Work\Projects\Visual Basic\Margana\Margana\obj\Debug\Margana.pdb
+D:\old stuff\Work\Projects\Visual Basic\Margana\Margana\bin\Debug\Margana.exe.manifest
+D:\old stuff\Work\Projects\Visual Basic\Margana\Margana\bin\Debug\Margana.application
+D:\old stuff\Work\Projects\Visual Basic\Margana\Margana\bin\Debug\Margana.exe
+D:\old stuff\Work\Projects\Visual Basic\Margana\Margana\bin\Debug\Margana.pdb
+D:\old stuff\Work\Projects\Visual Basic\Margana\Margana\bin\Debug\Margana.xml
+D:\old stuff\Work\Projects\Visual Basic\Margana\Margana\obj\Debug\Margana.abtGreenBay.resources
+D:\old stuff\Work\Projects\Visual Basic\Margana\Margana\obj\Debug\Margana.frmMarganaMain.resources
+D:\old stuff\Work\Projects\Visual Basic\Margana\Margana\obj\Debug\Margana.Resources.resources
+D:\old stuff\Work\Projects\Visual Basic\Margana\Margana\obj\Debug\Margana.SplashScreen1.resources
+D:\old stuff\Work\Projects\Visual Basic\Margana\Margana\obj\Debug\Margana.vbproj.GenerateResource.Cache
+D:\old stuff\Work\Projects\Visual Basic\Margana\Margana\obj\Debug\Margana.exe.manifest
+D:\old stuff\Work\Projects\Visual Basic\Margana\Margana\obj\Debug\Margana.application
+E:\old stuff\Work\Projects\Visual Basic\Margana\Margana\obj\Debug\Margana.exe
+E:\old stuff\Work\Projects\Visual Basic\Margana\Margana\obj\Debug\Margana.xml
+E:\old stuff\Work\Projects\Visual Basic\Margana\Margana\obj\Debug\Margana.pdb
+F:\Margana\Margana\obj\Debug\Margana.exe
+F:\Margana\Margana\obj\Debug\Margana.xml
+F:\Margana\Margana\obj\Debug\Margana.pdb
+F:\Margana\Margana\obj\Debug\Margana.vbprojResolveAssemblyReference.cache
+F:\Margana\Margana\obj\Debug\Margana.abtGreenBay.resources
+F:\Margana\Margana\obj\Debug\Margana.frmMarganaMain.resources
+F:\Margana\Margana\obj\Debug\Margana.Resources.resources
+F:\Margana\Margana\obj\Debug\Margana.SplashScreen1.resources
+F:\Margana\Margana\obj\Debug\Margana.vbproj.GenerateResource.Cache
+F:\Margana\Margana\bin\Debug\Margana.exe.manifest
+F:\Margana\Margana\bin\Debug\Margana.application
+F:\Margana\Margana\bin\Debug\Margana.exe
+F:\Margana\Margana\bin\Debug\Margana.pdb
+F:\Margana\Margana\bin\Debug\Margana.xml
+F:\Margana\Margana\obj\Debug\Margana.exe.manifest
+F:\Margana\Margana\obj\Debug\Margana.application

@@ -1,0 +1,14 @@
+bin\Debug\Margana.exe
+bin\Debug\Margana.pdb
+bin\Debug\Margana.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Margana.frmMarganaMain.resources
+obj\Debug\Margana.Resources.resources
+obj\Debug\Margana.vbproj.GenerateResource.Cache
+obj\Debug\Margana.exe
+obj\Debug\Margana.xml
+obj\Debug\Margana.pdb
+bin\Debug\Margana.exe.manifest
+bin\Debug\Margana.application
+obj\Debug\Margana.exe.manifest
+obj\Debug\Margana.application
